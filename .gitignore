@@ -1,0 +1,25 @@
+# MATLAB autosave and temporary files
+*.asv
+*.slxc
+*.mat~
+slprj/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+
+# OS specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE configuration
+.vscode/
+.idea/
